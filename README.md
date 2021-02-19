@@ -1,2 +1,3 @@
-# email-using-python
-Send emails to your colleagues using python
+# AtharvaBhagat/ Send Emails using python
+
+![](readme.png)
